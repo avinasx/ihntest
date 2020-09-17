@@ -1,5 +1,7 @@
 # ihntest
 A hiring test
+![img](https://github.com/CodeChari/ihntest/blob/master/INDIAN%20HOSPITALITY%20NETWORK%20-%20PHP%20TEST%20(1).pdf)
+
 
 
 # Folder information:
