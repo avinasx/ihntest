@@ -14,4 +14,4 @@ A hiring test
        
        ## for task-2 and 3, import `ihntest.sql` to your database.
        
-              and go to http://yourserverip/2-3-company-contact-movie-api/web/index.php 
+              and go to http://yourserverip/2-3-company-contact-movie-api/web/index.php (considering folder is directly placed to your roor directory)
