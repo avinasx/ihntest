@@ -29,11 +29,11 @@ A hiring test
          
          
 # Some demo Images
-       ![img](https://github.com/CodeChari/ihntest/blob/master/img/0.png)
-       ![img](https://github.com/CodeChari/ihntest/blob/master/img/1.png)
-       ![img](https://github.com/CodeChari/ihntest/blob/master/img/3.png)
-       ![img](https://github.com/CodeChari/ihntest/blob/master/img/4.png)
-       ![img](https://github.com/CodeChari/ihntest/blob/master/img/5.png)
+  ![img](https://github.com/CodeChari/ihntest/blob/master/img/0.png)
+  ![img](https://github.com/CodeChari/ihntest/blob/master/img/1.png)
+  ![img](https://github.com/CodeChari/ihntest/blob/master/img/3.png)
+  ![img](https://github.com/CodeChari/ihntest/blob/master/img/4.png)
+  ![img](https://github.com/CodeChari/ihntest/blob/master/img/5.png)
 
 
 
