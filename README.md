@@ -20,7 +20,8 @@ A hiring test
    #### For task-2 and 3, import `ihntest.sql` to your database.
    #### change database credentials in  `2-3-company-contact-movie-api/config/db.php` 
    #### Run `composer install` in project directory (not mandatory)
-        go to http://yourserverip/2-3-company-contact-movie-api/web/index.php (considering folder is directly placed to your roor directory)
+   go to http://yourserverip/2-3-company-contact-movie-api/web/index.php 
+   (considering folder is directly placed to your roor directory)
              
 
 
